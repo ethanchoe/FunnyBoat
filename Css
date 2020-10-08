@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+.page-header {
+    color: #fff;
+    text-align: right;
+    background-color: #blue;
+    font-style: comic sans;
+}
