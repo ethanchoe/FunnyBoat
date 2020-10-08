@@ -6,4 +6,9 @@
 
 I like how this boat is small but can transport people over the waters. This boat won't sink!
 
-# Header 1
+# How do you like this small boat? I like it as well!
+
+![Smaller boat](https://ak.picdn.net/shutterstock/videos/1369120/thumb/1.jpg)
+
+This boat is very cool because you do not have to row the boat.
+You can just turn on the motor and the  boat automatically moves, so cool without much work needed! I think that is very cool!!!
