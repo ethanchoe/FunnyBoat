@@ -2,7 +2,7 @@
 
 
 ### HEY! Look at this dingy!
-![Really funny small boat](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.clcboats.com%2Flife-of-boats-blog%2Fultralight-dinghy.html&psig=AOvVaw0TTq0jLwRtl8VPTtqhAxUr&ust=1602222481367000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICojYOmpOwCFQAAAAAdAAAAABAD)
+![Really funny small boat](https://www.clcboats.com/images/photos/boats/Ultralight-Dinghy/Ultralight%20Dinghy%20Launch%20-%205%20-%20Thumb.jpg)
 
 
 
