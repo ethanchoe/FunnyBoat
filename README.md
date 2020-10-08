@@ -12,3 +12,5 @@ I like how this boat is small but can transport people over the waters. This boa
 
 This boat is very cool because you do not have to row the boat.
 You can just turn on the motor and the  boat automatically moves, so cool without much work needed! I think that is very cool!!!
+
+I really like boats! If you do too, you can look here for more [cool boat images!](https://unsplash.com/s/photos/boat)
