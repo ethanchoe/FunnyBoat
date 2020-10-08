@@ -1,5 +1,4 @@
-## Welcome to GitHub Pages
-
+## I love boats, especially funny boats such as small boat
 
 
 ### Markdown
